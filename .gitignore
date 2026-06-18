@@ -1,0 +1,19 @@
+# Credentials et configuration locale
+.env
+credential.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Divers
+*.log

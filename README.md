@@ -110,8 +110,6 @@ DB_PASSWORD=monMotDePasse
 DB_NAME=laminoir
 ```
 
-⚠️ Ce fichier contient des secrets : ne pas le partager ni le versionner
-(à ajouter dans un `.gitignore` si le projet est mis sous Git).
 
 ## Utilisation
 
